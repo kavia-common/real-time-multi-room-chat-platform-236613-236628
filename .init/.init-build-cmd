@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/tmp/kavia/workspace/code-generation/real-time-multi-room-chat-platform-236613-236628/postgresql_db"
+}
