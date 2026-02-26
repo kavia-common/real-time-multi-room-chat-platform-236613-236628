@@ -1,4 +1,0 @@
-{
-    "command": "cd db_visualizer && npm install",
-    "working_directory": "/tmp/kavia/workspace/code-generation/real-time-multi-room-chat-platform-236613-236628/postgresql_db"
-}

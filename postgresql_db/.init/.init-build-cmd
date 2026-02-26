@@ -1,2 +1,0 @@
-{ "working_directory": "/tmp/kavia/workspace/code-generation",
- "command": "chmod +x startup.sh && sudo ./startup.sh &" }
